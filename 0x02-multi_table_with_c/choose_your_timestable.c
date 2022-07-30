@@ -19,4 +19,5 @@ for (i = 1; i <= 12; i++)
 {
 printf("%d * %d\t = %d\t\n", n, i, (n * i));
 }
+return (0);
 }
